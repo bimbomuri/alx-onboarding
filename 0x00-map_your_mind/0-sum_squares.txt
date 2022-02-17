@@ -1,0 +1,8 @@
+1. Start
+2.Initialize sum to be 0
+3.Get user input
+4.Do a loop to read through the range the user inputed
+5.Square Each of the numbers
+6. Add to sum
+7.Print Result
+8. End
