@@ -1,0 +1,7 @@
+1.Start
+2.Initialize Sum = 0
+3.Get user to enter a number
+4. If the number is positive,add it to sum and repeat step 3
+5. If number is negative, stop and do step 6
+6. Print Result
+7. End
